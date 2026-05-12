@@ -12,7 +12,7 @@
     { "id": 11, "title": "External SSD 1TB", "code": "STR-ESS1-011", "category": "Storage", "brand": "DataCore", "price": 1750000, "stock": 41 },
     { "id": 12, "title": "Portable Hard Drive 2TB", "code": "STR-PHD2-012", "category": "Storage", "brand": "SecureDisk", "price": 1299000, "stock": 63 },
     { "id": 13, "title": "Webcam 4K", "code": "CAM-4K13-013", "category": "Electronics", "brand": "ClearView", "price": 1250000, "stock": 27 },
-    { "id": 14, "title": "Microphone USB", "code": "AUD-MIC14-014", "category": "Audio", "brand": "VoicePro", "price": 450000, "stock": 92 },
+    { "id": 14, "title": "Microphone USB2", "code": "AUD-MIC14-014", "category": "Audio", "brand": "VoicePro", "price": 450000, "stock": 92 },
     { "id": 15, "title": "Laptop Stand Adjustable", "code": "ACC-LS15-015", "category": "Accessories", "brand": "ErgoRise", "price": 299000, "stock": 110 },
     { "id": 16, "title": "Phone Tripod", "code": "ACC-TR16-016", "category": "Accessories", "brand": "StableCam", "price": 189000, "stock": 134 },
     { "id": 17, "title": "Ring Light 10 Inch", "code": "LGT-RL10-017", "category": "Lighting", "brand": "BrightRing", "price": 349000, "stock": 73 },
